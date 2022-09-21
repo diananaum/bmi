@@ -5,7 +5,5 @@ public class BmiService {
     double bmi = kg / (m * m);
     return bmi;
     }
-
-
-
+    
 }
